@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 Welcome to my GitHub Profile! 
-My name is Filipe Passarinho and I am a Higher Professional Technician in Information Systems Technologies and Programming. I am always looking to improve my skills and learn new technologies. Currently, my favorite area is web development, but I am always available to participate in other areas, because at the end of the day, what I like is programming. 
+
+Hello, I'm Filipe Passarinho, a Higher Professional Technician in Information Systems Technologies and Programming. I'm passionate about programming and continuously strive to enhance my skills and learn new technologies. My current favorite area is web development, but I'm always eager to explore and contribute to other areas as well. Ultimately, what drives me is the love for programming in all its forms.
 
   💻 Skills:
   
