@@ -14,6 +14,4 @@ About me:
 
   🔭 I'm currently working on a start-ups website.
 
-  Get in Touch:
 
-    💼 LinkedIn: www.linkedin.com/in/filipepassarinho
