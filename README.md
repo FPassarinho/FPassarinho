@@ -16,4 +16,4 @@ Hello, I'm Filipe Passarinho, a Higher Professional Technician in Information Sy
   🔭 I'm currently working on a startup's website and also on a small perceptron project.
 
 
-<img width="47%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FPassarinho&layout=compact&show_icons=true&bg_color=252626&title_color=fff&text_color=cdd1d1&icon_color=5b99f5&locale=en&hide_border=0&include_all_commits=0&count_private=0&line_height=25" />
+<img width="47%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FPassarinho&layout=compact&show_icons=true&bg_color=252626&title_color=fff&text_color=cdd1d1&icon_color=5b99f5&locale=en&hide_border=0&include_all_commits=1&count_private=1&line_height=25" />
