@@ -8,9 +8,7 @@ Hello, I'm Filipe Passarinho. I hold an Associate Degree in Information Systems 
   
       Languages: HTML, CSS, Javascript, Typescript, Python, C, C#, Java, SQL.
       
-      Frameworks and Libraries: Node.js, React, Fastify, Ant Design.
+      Frameworks and Libraries: Node.js, React, Fastify, Ant Design, .NET Core.
       
       Tools and Technologies: Git, MySQL, PostgreSQL, SQLServer.
 
-
-  🔭 I'm currently working on a startup's website and also on a small perceptron project.
